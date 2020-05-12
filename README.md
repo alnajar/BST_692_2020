@@ -147,12 +147,11 @@ Configure your machine before May 15th.
 
 |Date        | Session/Objectives | Readings | Assignments |        
 |--------------------|------------------------|----------------|----------------|
-| **05/18**          | **What is Data Science?**                     | | Assignment0: |
-|                    |                                               | | Assignment1: |
-| Balise & Bouzoubaa | 1. Understanding what is data science         | | |
-|                    | 2.	Understand data processing pipeliens       | | |
-|                    | 3.	Understand the types of Jobs               | | |
-|                    | 4.	Understand Data Science Hierarchy of Needs | | |
+| **05/18**     | **What is Data Science?**              | | |
+| Balise & Bouzoubaa | 1. Understanding what is data science     | | |
+|            | 2.	Undstand data processing pipeliens | | |
+|            | 3.	Understand the types of Jobs      | | |
+|            | 4.	Understand Data Science Hierarchy of Needs | | |
 
 ### Module 2 - Databases and Programming
 | Date            | Session/Objectives | Readings | Assignments |        
