@@ -1,4 +1,4 @@
-<center>
+<p align="center">
 
 Department of Public Health Sciences  
 University of Miami School of Medicine
@@ -22,7 +22,7 @@ Office: CRB Room 1066
 E-mail: lab218@miami.edu  
 Office Hours: by appointment
 
-</center>
+</p>
 
 # Course Description:
 BST 692 (3-credits) will teach computational data science techniques using end-to-end data processing pipelines. It will focus on applied data analysis problems that the biostatistics faculty are actively trying to solve.  Students will be presented with data that the faculty are working on and will be asked to apply programming knowledge that they have learned in previous classes.  They will then study and apply new data acquisition, data processing, and machine learning methods to handle problems that are not well handled by common techniques.  The goal of the class is to give students the opportunity to deploy a complete data science pipeline.  Students will apply their data acquisition and exploration skills to real world health research problems; study modern machine learning methods; contrast traditional and new methods to deal with large, complex and messy data; and learn to disseminate results through online, interactive displays.
