@@ -131,7 +131,7 @@ A recent Faculty Senate decision has been made for how instructors must handle t
 # Course Schedule
 ### Module 1 – What is Data Science?
 
-Configure your machine before May 15th.  
+Configure your machine before May 18th.  See Assignment 0.
 
 + Windows
     + [Configure a Windows PC for Data Science](https://derailment.netlify.com/2019-11-01-configure-a-windows-pc-for-data-science/)
@@ -145,21 +145,22 @@ Configure your machine before May 15th.
     + [Configure GitHub with GitKraken](https://derailment.netlify.com/2020-04-10-configure-github-with-gitkraken/)
 
 
-|Date        | Session/Objectives | Readings | Assignments |        
-|--------------------|------------------------|----------------|----------------|
-| **05/18**     | **What is Data Science?**              | | |
-| Balise & Bouzoubaa | 1. Understanding what is data science     | | |
-|            | 2.	Undstand data processing pipeliens | | |
-|            | 3.	Understand the types of Jobs      | | |
-|            | 4.	Understand Data Science Hierarchy of Needs | | |
+|Date                | Session/Objectives              | Readings | Assignments |        
+|--------------------|---------------------------------|----------------|------|
+| **05/18**          | **What is Data Science?**       |                |              |
+| Balise & Bouzoubaa | 1. Understanding what is data science |          | Assignment 0 |
+|                    |                                 |                | Assignment 1 |
+|                    | 2.	Undstand data processing pipeliens |          |              |
+|                    | 3.	Understand the types of Jobs      |           |              |
+|                    | 4.	Understand Data Science Hierarchy of Needs |  |              |
 
 ### Module 2 - Databases and Programming
-| Date            | Session/Objectives | Readings | Assignments |        
+| Date               | Session/Objectives | Readings | Assignments |        
 |--------------------|-----------------------|-----------------|----------------|
-| **05/18 & 5/20** | **Pipelines/UNIX/Git/Github**              | | |
+| **05/18 & 5/20**   | **Pipelines/UNIX/Git/Github**              | | |
 | Balise & Bouzoubaa | 1. Understand the process of creating a DS pipeline   | | |
-|                    | 2. UNIX pipelines | | |
-|                    | 3. Understand and know how to use version control with Git | | |
+|                    | 2. UNIX pipelines | http://swcarpentry.github.io/shell-novice/ | |
+|                    | 3. Understand and know how to use version control with Git | http://swcarpentry.github.io/git-novice/ | |
 |                    | 4. Understand and know how to use GitHub | | |
 | **05/22**          | **Programming in Tidyverse**              | | |
 | Balise & Bouzoubaa | 5. Review and Expand from BST 625 - Understand and know how to use the Tidyverse (dplyr, ggplot, purrr, etc)  | | |
