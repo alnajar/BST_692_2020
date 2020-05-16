@@ -83,7 +83,8 @@ Dates will be added below if the biostatistics faculty approve the outline/plan
         + Assignment 8 – Do Logistic Regression and KNN
         + Assignment 9 – Do tree based models
         + Assignment 10 - Do MBA
-+ Module 4 – Add web output to the pipeline
++ Module 4 – Interactive Output
+    + Shiny
         + Assignment 11 - Build the shell of a web app
         + Assignment 12 -
         + Assignment 13 -
