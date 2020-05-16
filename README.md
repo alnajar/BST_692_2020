@@ -62,30 +62,31 @@ You can collaborate (groups less than 5 people) on all parts of this class excep
 Dates will be added below if the biostatistics faculty approve the outline/plan
 
 +	Module 1 – Introduction to Data Science
-        + Assignment 0
-+	Module 2 – Load and understand data in a pipeline
-    + Load data via API
-        + Assignment 1
-    + Do descriptive statistics on individual tables
-        + Assignment 2
-    + Merge tables with SQL
-        + Assignment 3
-    + Make a markdown document with results
-        + Assignment 4
-    + Write a package that includes all the code needed and documents the data
-        + Assignment 5
-    + Use Drake to control pipeline
-        + Assignment 6
-+ Module 3 – Add analysis to the pipeline
+        + Assignment 0 - Setup stuff
++	Module 2 – Databases and Programming
+    + Pipelines
+        + Assignment 1 - GitHub
+    + Tidyverse
+        + Assignment 2 - Functional Programming
+    + Acquisition
+        + Assignment 3 - Pull data via API
+    + SQL
+        + Assignment 4 - Work with multiple tables
+    +  Explore
+        + Assignment 5 - Summarize a Bunch of new Data
+    + Packages
+        + Assignment  6 - Write a package that includes all the code needed and documents the data
+    + Reproducibility
+        + Assignment 7 -
++ Module 3 – Statistics and Algorithms
     + Predict treatment success with many methods
-        + Assignment 7 – logistic
-        + Assignment 8 – KNN
-        + Assignment 9 - SVM
-        + Assignment 10 Random Forest
+        + Assignment 8 – Do Logistic Regression and KNN
+        + Assignment 9 – Do tree based models
+        + Assignment 10 - Do MBA
 + Module 4 – Add web output to the pipeline
-        + Assignment X
-        + Assignment XX
-        + Assignment XXX
+        + Assignment 11 - Build the shell of a web app
+        + Assignment 12 -
+        + Assignment 13 -
 +	Final Presentation
 
 # Grading
@@ -150,7 +151,7 @@ Configure your machine before May 18th.  See Assignment 0.
 |--------------------|---------------------------------|----------------|------|
 | **05/18**          | **What is Data Science?**       |                |              |
 | Balise & Bouzoubaa | 1. Understanding what is data science |          | Assignment 0 |
-|                    |                                 |                | Assignment 1 |
+|                    |                                 |                | |
 |                    | 2.	Undstand data processing pipeliens |          |              |
 |                    | 3.	Understand the types of Jobs      |           |              |
 |                    | 4.	Understand Data Science Hierarchy of Needs |  |              |
@@ -159,7 +160,7 @@ Configure your machine before May 18th.  See Assignment 0.
 ### Module 2 - Databases and Programming
 | Date               | Session/Objectives | Readings | Assignments |        
 |--------------------|-----------------------|-----------------|----------------|
-| **05/18 & 5/20**   | **Pipelines/UNIX/Git/Github**              | | |
+| **05/18 & 5/20**   | **Pipelines/UNIX/Git/Github**              | | Assignment 1 |
 | Balise & Bouzoubaa | 1. Understand the process of creating a DS pipeline   | | |
 |                    | 2. UNIX pipelines | http://swcarpentry.github.io/shell-novice/ | |
 |                    | 3. Understand and know how to use version control with Git | http://swcarpentry.github.io/git-novice/ | |
