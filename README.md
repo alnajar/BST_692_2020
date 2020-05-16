@@ -64,6 +64,7 @@ Each assignment will loose 1 point for each day it is late.
 Each assignment is due before the class that starts the NEXT topic.
 
 +	Module 1 – Introduction to Data Science
+    + Data Science and Tools
         + Assignment 0 - Setup stuff (Due before 1:00 PM on 5/20)
 +	Module 2 – Databases and Programming
     + Pipelines
