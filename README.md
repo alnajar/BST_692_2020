@@ -154,6 +154,7 @@ Configure your machine before May 18th.  See Assignment 0.
 |                    | 2.	Undstand data processing pipeliens |          |              |
 |                    | 3.	Understand the types of Jobs      |           |              |
 |                    | 4.	Understand Data Science Hierarchy of Needs |  |              |
+|                    | 4.	Understand Lessons Learned from COVID-19 in Mexico |  |              |
 
 ### Module 2 - Databases and Programming
 | Date               | Session/Objectives | Readings | Assignments |        
@@ -215,7 +216,7 @@ Configure your machine before May 18th.  See Assignment 0.
 |                    | 2.	DALEX package | http://dalex.drwhy.ai/index.html#introduction | |
 |                    | a.	Extract useful information from several model parameters | | |
 
-### Module 4 - Statistics and Algorithms
+### Module 4 - Interactive Output
 |Date                | Session/Objectives                     | Readings | Assignments |  
 |--------------------|----------------------------------------|------|----------|
 | **06/17, 06/19, 6/22, 6/24**  | **Shiny**              | | |
@@ -230,7 +231,7 @@ Configure your machine before May 18th.  See Assignment 0.
 |                    | 9.	Know how to deploy on ShinyApps.io | | |
 | **06/25**          | **Help Session**              | | |
 | Balise & Bouzoubaa |   | | |
-| **06/26**          | **Final**              | | |
+| **06/26**          | **Final**              | | |4
 | Balise & Bouzoubaa | In class conceptual final  | | |
 |                    | In class presentations   | | |
 
