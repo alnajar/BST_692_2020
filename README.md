@@ -154,7 +154,7 @@ Configure your machine before May 18th.  See Assignment 0.
 |                    | 2.	Undstand data processing pipeliens |          |              |
 |                    | 3.	Understand the types of Jobs      |           |              |
 |                    | 4.	Understand Data Science Hierarchy of Needs |  |              |
-|                    | 4.	Understand Lessons Learned from COVID-19 in Mexico |  |              |
+|                    | 5.	Understand Lessons Learned from COVID-19 in Mexico |  |              |
 
 ### Module 2 - Databases and Programming
 | Date               | Session/Objectives | Readings | Assignments |        
