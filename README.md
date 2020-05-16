@@ -59,36 +59,38 @@ During the class, the following software will be utilized:
 ## Grading/Evaluation:
 You can collaborate (groups less than 5 people) on all parts of this class except the in-class final exam. There are 14 assignments (each worth 3 points).  Each assignment is a piece of the puzzle in making an interactive web application.  There is a final project combining all the work from the assignments into an interactive web app which will predict breaking addiction using traditional and machine learning methods (worth 37 points).   There is a timed in class presentation of the final project where groups will show their work (worth 10 points).  Consider the final presentation as a job interview.  Students who do not have extensive job interviewing or timed presentation skills should contact the Toppel Career Center for training on interviewing and presenting. Every student in each group must present and be prepared to answer questions on every aspect of the project.  There is an in class final exam (true/false, multiple choice, matching etc.) worth 11 points.  Grades will be based on the percentage of the total points achieved by the best student.  In theory, a student who does perfectly on everything could set the curve based on 42 + 37 + 10 + 11 = 100 points possible.  
 
-Dates will be added below if the biostatistics faculty approve the outline/plan
+Each assignment will loose 1 point for each day it is late.
+
+Each assignment is due before the class that starts the NEXT topic.
 
 +	Module 1 – Introduction to Data Science
-        + Assignment 0 - Setup stuff
+        + Assignment 0 - Setup stuff (Due before 1:00 PM on 5/20)
 +	Module 2 – Databases and Programming
     + Pipelines
-        + Assignment 1 - GitHub
+        + Assignment 1 - GitHub (Due before 1:00 PM on 5/22)
     + Tidyverse
-        + Assignment 2 - Functional Programming
+        + Assignment 2 - Functional Programming (Due before 1:00 PM on 5/27)
     + Acquisition
-        + Assignment 3 - Pull data via API
+        + Assignment 3 - Pull data via API (Due before 1:00 PM on 5/29)
     + SQL
-        + Assignment 4 - Work with multiple tables
+        + Assignment 4 - Work with multiple tables (Due before 1:00 PM on 5/29)
     +  Explore
-        + Assignment 5 - Summarize a Bunch of new Data
+        + Assignment 5 - Summarize a Bunch of new Data (Due before 1:00 PM on 6/01)
     + Packages
-        + Assignment  6 - Write a package that includes all the code needed and documents the data
+        + Assignment  6 - Write a package that includes all the code needed and documents the data (Due before 1:00 PM on 6/03)
     + Reproducibility
-        + Assignment 7 -
+        + Assignment 7 -(Due before 1:00 PM on 6/05)
 + Module 3 – Statistics and Algorithms
     + Predict treatment success with many methods
-        + Assignment 8 – Do Logistic Regression and KNN
-        + Assignment 9 – Do tree based models
-        + Assignment 10 - Do MBA
+        + Assignment 8 – Do Logistic Regression and KNN (Due before 1:00 PM on 6/12)
+        + Assignment 9 – Do tree based models (Due before 1:00 PM on 6/12)
+        + Assignment 10 - Do MBA (Due before 1:00 PM on 6/15)
 + Module 4 – Interactive Output
     + Shiny
-        + Assignment 11 - Build the shell of a web app
+        + Assignment 11 - Build the shell of a web app (Due before 1:00 PM on 6/19)
         + Assignment 12 -
         + Assignment 13 -
-+	Final Presentation
++	Final Presentation - (Due before 1:00 PM on 6/26)
 
 # Grading
 Grades will be assigned using the following percentages:
