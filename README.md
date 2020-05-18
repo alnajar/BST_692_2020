@@ -65,32 +65,32 @@ Each assignment is due before the class that starts the NEXT topic.
 
 +	Module 1 – Introduction to Data Science
     + Data Science and Tools
-        + Assignment 0 - Setup stuff (Due before 1:00 PM on 5/20)
+        + Assignment 1 - Setup stuff (Due before 1:00 PM on 5/20)
 +	Module 2 – Databases and Programming
     + Pipelines
-        + Assignment 1 - GitHub (Due before 1:00 PM on 5/22)
+        + Assignment 2 - GitHub (Due before 1:00 PM on 5/22)
     + Tidyverse
-        + Assignment 2 - Functional Programming (Due before 1:00 PM on 5/27)
+        + Assignment 3 - Functional Programming (Due before 1:00 PM on 5/27)
     + Acquisition
-        + Assignment 3 - Pull data via API (Due before 1:00 PM on 5/29)
+        + Assignment 4 - Pull data via API (Due before 1:00 PM on 5/29)
     + SQL
-        + Assignment 4 - Work with multiple tables (Due before 1:00 PM on 5/29)
+        + Assignment 5 - Work with multiple tables (Due before 1:00 PM on 5/29)
     +  Explore
-        + Assignment 5 - Summarize a Bunch of new Data (Due before 1:00 PM on 6/01)
+        + Assignment 6 - Summarize a Bunch of new Data (Due before 1:00 PM on 6/01)
     + Packages
-        + Assignment  6 - Write a package that includes all the code needed and documents the data (Due before 1:00 PM on 6/03)
+        + Assignment  7 - Write a package that includes all the code needed and documents the data (Due before 1:00 PM on 6/03)
     + Reproducibility
-        + Assignment 7 -(Due before 1:00 PM on 6/05)
+        + Assignment 8 -(Due before 1:00 PM on 6/05)
 + Module 3 – Statistics and Algorithms
     + Predict treatment success with many methods
-        + Assignment 8 – Do Logistic Regression and KNN (Due before 1:00 PM on 6/12)
-        + Assignment 9 – Do tree based models (Due before 1:00 PM on 6/12)
-        + Assignment 10 - Do MBA (Due before 1:00 PM on 6/15)
+        + Assignment 9 – Do Logistic Regression and KNN (Due before 1:00 PM on 6/12)
+        + Assignment 10 – Do tree based models (Due before 1:00 PM on 6/12)
+        + Assignment 11 - Do MBA (Due before 1:00 PM on 6/15)
 + Module 4 – Interactive Output
     + Shiny
-        + Assignment 11 - Build the shell of a web app (Due before 1:00 PM on 6/19)
-        + Assignment 12 -
+        + Assignment 12 - Build the shell of a web app (Due before 1:00 PM on 6/19)
         + Assignment 13 -
+        + Assignment 14 -
 +	Final Presentation - (Due before 1:00 PM on 6/26)
 
 # Grading
@@ -155,7 +155,6 @@ Configure your machine before May 18th.  See Assignment 0.
 |--------------------|---------------------------------|----------------|------|
 | **05/18**          | **What is Data Science?**       |                |              |
 | Balise & Bouzoubaa | 1. Understanding what is data science |          | Assignment 0 |
-|                    |                                 |                | |
 |                    | 2.	Undstand data processing pipeliens |          |              |
 |                    | 3.	Understand the types of Jobs      |           |              |
 |                    | 4.	Understand Data Science Hierarchy of Needs |  |              |
@@ -167,10 +166,10 @@ Configure your machine before May 18th.  See Assignment 0.
 | **05/18 & 5/20**   | **Pipelines/UNIX/Git/Github**              | | Assignment 1 |
 | Balise & Bouzoubaa | 1. Understand the process of creating a DS pipeline   | | |
 |                    | 2. UNIX pipelines | http://swcarpentry.github.io/shell-novice/ | |
-|                    | 3. Understand and know how to use version control with Git | http://swcarpentry.github.io/git-novice/ | |
-|                    | 4. Understand and know how to use GitHub | | |
+|                    | 3. Understand and know how to use version control with Git | http://swcarpentry.github.io/git-novice/  | |
+|                    | 4. Understand and know how to use GitHub |  https://happygitwithr.com/| | |
 | **05/22**          | **Programming in Tidyverse**              | | |
-| Balise & Bouzoubaa | 5. Review and Expand from BST 625 - Understand and know how to use the Tidyverse (dplyr, ggplot, purrr, etc)  | | |
+| Balise & Bouzoubaa | 5. Review and Expand from BST 625 - Understand and know how to use the Tidyverse (dplyr, ggplot, purrr, etc)  | https://r4ds.had.co.nz/ | |
 | **05/25**          | **Holiday**              | | |
 | **05/27**          | **Data Acquisition**               | | |
 | Balise & Bouzoubaa | 6. Understand what an API is   | | |
