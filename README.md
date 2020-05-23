@@ -163,21 +163,21 @@ Configure your machine before May 18th.  See Assignment 0.
 ### Module 2 - Databases and Programming
 | Date               | Session/Objectives | Readings | Assignments |        
 |--------------------|-----------------------|-----------------|----------------|
-| **05/18 & 5/20**   | **Pipelines/UNIX/Git/Github**              | | Assignment 1 |
+| **05/20 & 5/22**   | **Pipelines/UNIX/Git/Github**              | | Assignment 1 |
 | Balise & Bouzoubaa | 1. Understand the process of creating a DS pipeline   | | |
 |                    | 2. UNIX pipelines | http://swcarpentry.github.io/shell-novice/ | |
 |                    | 3. Understand and know how to use version control with Git | http://swcarpentry.github.io/git-novice/  | |
 |                    | 4. Understand and know how to use GitHub |  https://happygitwithr.com/| | |
-| **05/22**          | **Programming in Tidyverse**              | | |
-| Balise & Bouzoubaa | 5. Review and Expand from BST 625 - Understand and know how to use the Tidyverse (dplyr, ggplot, purrr, etc)  | https://r4ds.had.co.nz/ | |
 | **05/25**          | **Holiday**              | | |
-| **05/27**          | **Data Acquisition**               | | |
+| **05/27**          | **Programming in Tidyverse**              | | |
+| Balise & Bouzoubaa | 5. Review and Expand from BST 625 - Understand and know how to use the Tidyverse (dplyr, ggplot, purrr, etc)  | https://r4ds.had.co.nz/ | |
+| **05/29**          | **Data Acquisition**               | | |
 | Balise & Bouzoubaa | 6. Understand what an API is   | | |
 |                    | 7. How to pull data from RedCap via API   | | |
-| **05/27**          | **SQL**              | | |
+| **05/29**          | **SQL**              | | |
 | Balise             | 8. Understand know how to write SQL calls   | | |
 |                    | 9. Understand how SQL relates to the tidyverse | | |
-| **05/29**          | **Explore & Transform**              | | |
+| **06/03**          | **Explore & Transform**              | | |
 | Balise & Bouzoubaa | 10.	Know how to do exploratory data analysis in R (with DataExploreR and Janitor)  | | |
 | **06/01**          | **Packages**  | | |
 | Balise             | 11.	Know how to create your own R package   | | |
@@ -185,12 +185,7 @@ Configure your machine before May 18th.  See Assignment 0.
 |                    | 13.	Unstand the tools used to make a package | | |
 |                    | 14.	Understand the files and directories that make an R package | | |
 |                    | 15.	Know how to add documentation to a package | | |
-| **06/03**          | **Reproducibility**              | | |
-| Bouzoubaa          | 16.	Understand the importance of scientific replicability | https://ropenscilabs.github.io/drake-manual/index.html#installation  & learndrake R package & https://wlandau.shinyapps.io/drakeplanner  | |
-|                    | 17.  Drake package   | | |
-|                    | a.	Know how to rebuild intermediate data objects when dependencies change | | |
-|                    | b.	Know how to build a drake controlled pipeline | | |
-|                    | 17.  R Markdown and Friends   | | |
+
 
 ### Module 3 - Statistics and Algorithms
 |  Date               | Session/Objectives | Readings | Assignments |        
