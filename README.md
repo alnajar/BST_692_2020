@@ -7,7 +7,7 @@ University of Miami School of Medicine
 **BST 692  
 Data Science and Machine Learning for Health Research**  
 Monday, Wednesday & Friday from 1:00-3:00 PM, CRB 995  
-Summer 2020 (May 18 – June 26, 2019)  
+Summer 2020 (May 18 – June 26, 2020)  
 (3 credits)  
 
 Instructor of Record:  
