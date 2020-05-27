@@ -163,18 +163,18 @@ Configure your machine before May 18th.  See Assignment 0.
 ### Module 2 - Databases and Programming
 | Date               | Session/Objectives | Readings | Assignments |        
 |--------------------|-----------------------|-----------------|----------------|
-| **05/20 & 5/22**   | **Pipelines/UNIX/Git/Github**              | | Assignment 1 - GitHub |
+| **05/20 & 5/22**   | **Pipelines/UNIX/Git/Github**              | https://rafalab.github.io/dsbook/unix.html https://rafalab.github.io/dsbook/git.html | Assignment 1 - GitHub |
 | Balise & Bouzoubaa | 1. Understand the process of creating a DS pipeline   | | |
 |                    | 2. UNIX pipelines | http://swcarpentry.github.io/shell-novice/ | |
 |                    | 3. Understand and know how to use version control with Git | http://swcarpentry.github.io/git-novice/  | |
 |                    | 4. Understand and know how to use GitHub |  https://happygitwithr.com/| | |
 | **05/25**          | **Holiday**              | | |
-| **05/27**          | **Programming in Tidyverse**              | https://rafalab.github.io/dsbook/tidyverse.html | Assignment 2 - Tidyverse|
+| **05/27**          | **Programming in Tidyverse**              | https://rafalab.github.io/dsbook/tidyverse.html https://rafalab.github.io/dsbook/ggplot2.html | Assignment 2 - Tidyverse|
 | Balise & Bouzoubaa | 5. Review and Expand from BST 625 - Understand and know how to use the Tidyverse (dplyr, ggplot, purrr, etc)  | https://r4ds.had.co.nz/ | |
 | **05/29**          | **Data Acquisition**               | | Assignment 3a - Acquisition |
 | Balise & Bouzoubaa | 6. Understand what an API is   | | |
 |                    | 7. How to pull data from RedCap via API   | | |
-| **05/29**          | **SQL**              | | Assignment 3b - SQL |
+| **05/29**          | **SQL**              | https://rafalab.github.io/dsbook/joining-tables.html | Assignment 3b - SQL |
 | Balise             | 8. Understand know how to write SQL calls   | | |
 |                    | 9. Understand how SQL relates to the tidyverse | | |
 | **06/01**          | **Explore & Transform**              | | Assignment 4 - Explore |
@@ -190,20 +190,20 @@ Configure your machine before May 18th.  See Assignment 0.
 ### Module 3 - Statistics and Algorithms
 |  Date               | Session/Objectives | Readings | Assignments |        
 |--------------------|-------------------------------|---------|----------------|
-| **06/05**          | **Intro to Machine Learning**              | | |
+| **06/05**          | **Intro to Machine Learning**              | https://rafalab.github.io/dsbook/introduction-to-machine-learning.html https://rafalab.github.io/dsbook/smoothing.html https://rafalab.github.io/dsbook/cross-validation.html https://rafalab.github.io/dsbook/caret.html  | |
 | Balise             | 1. Be able to explain What is ML?  | | |
 |                    | 2. Understand the the philosophical/practical differences between machine learning and statistics | | |
 |                    | 3. Understand when the common ML algorithms should and should not be used | | |
 |                    | 4. Understand and know how to make well built training and test sets | | |
 |                    | 5. Understand and know how to do cross validation with caret package | | |
-| **06/08 & 6/10**   | **Supervised Machine Learning**              | | |
+| **06/08 & 6/10**   | **Supervised Machine Learning**              | https://rafalab.github.io/dsbook/examples-of-algorithms.html https://rafalab.github.io/dsbook/examples-of-algorithms.html | |
 | Balise             | 1. Understand what is supervised ML? | | |
 |                    | 2. Understand and be able to do traditional and machine learning classification with: | | |
 |                    | a. Logisitic Regression | | |
 |                    | b. K Nearest Neighbors | | |
 |                    | c. SVM | | |
 |                    | d. Random Forest | | |
-| **06/12**          | **Unsupervised Machine Learning**              | | |
+| **06/12**          | **Unsupervised Machine Learning**              | https://rafalab.github.io/dsbook/clustering.html | |
 | Balise             | 1. Understand what is unsupervised ML? | | |
 |                    | 2.	Understand and be able to do unsupervised learning  | | |
 |                    | a.	Market Basket Analyses | | |
