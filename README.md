@@ -154,7 +154,7 @@ Configure your machine before May 18th.  See Assignment 0.
 |Date                | Session/Objectives              | Readings | Assignments |        
 |--------------------|---------------------------------|----------------|------|
 | **05/18**          | **What is Data Science?**       |                |              |
-| Balise & Bouzoubaa | 1. Understanding what is data science |          | Assignment 0 |
+| Balise & Bouzoubaa | 1. Understanding what is data science |          | Assignment 0 - Configure|
 |                    | 2.	Undstand data processing pipeliens |          |              |
 |                    | 3.	Understand the types of Jobs      |           |              |
 |                    | 4.	Understand Data Science Hierarchy of Needs |  |              |
@@ -163,15 +163,15 @@ Configure your machine before May 18th.  See Assignment 0.
 ### Module 2 - Databases and Programming
 | Date               | Session/Objectives | Readings | Assignments |        
 |--------------------|-----------------------|-----------------|----------------|
-| **05/20 & 5/22**   | **Pipelines/UNIX/Git/Github**              | | Assignment 1 |
+| **05/20 & 5/22**   | **Pipelines/UNIX/Git/Github**              | | Assignment 1 - GitHub |
 | Balise & Bouzoubaa | 1. Understand the process of creating a DS pipeline   | | |
 |                    | 2. UNIX pipelines | http://swcarpentry.github.io/shell-novice/ | |
 |                    | 3. Understand and know how to use version control with Git | http://swcarpentry.github.io/git-novice/  | |
 |                    | 4. Understand and know how to use GitHub |  https://happygitwithr.com/| | |
 | **05/25**          | **Holiday**              | | |
-| **05/27**          | **Programming in Tidyverse**              | | |
+| **05/27**          | **Programming in Tidyverse**              | | Assignment 2 - Tidyverse|
 | Balise & Bouzoubaa | 5. Review and Expand from BST 625 - Understand and know how to use the Tidyverse (dplyr, ggplot, purrr, etc)  | https://r4ds.had.co.nz/ | |
-| **05/29**          | **Data Acquisition**               | | |
+| **05/29**          | **Data Acquisition**               | | Assignment 2 - API |
 | Balise & Bouzoubaa | 6. Understand what an API is   | | |
 |                    | 7. How to pull data from RedCap via API   | | |
 | **05/29**          | **SQL**              | | |
