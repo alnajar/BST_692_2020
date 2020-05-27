@@ -45,7 +45,7 @@ Passing grade on BST 625 (or an equivalent class approved by the instructor) and
 Details are listed in the table below.
 
 # Recommended Readings:
-See topic-specific readings.
+_Introduction to Data Science_ on [GitHub](https://rafalab.github.io/dsbook/) or [dead-tree/ebook](https://www.routledge.com/Introduction-to-Data-Science-Data-Analysis-and-Prediction-Algorithms-with/Irizarry/p/book/9780367357986) by Irizarry.  See topic-specific readings.
 
 # Computer Lab
 Students will work on their own computers (Mac and Windows will be supported).
@@ -169,7 +169,7 @@ Configure your machine before May 18th.  See Assignment 0.
 |                    | 3. Understand and know how to use version control with Git | http://swcarpentry.github.io/git-novice/  | |
 |                    | 4. Understand and know how to use GitHub |  https://happygitwithr.com/| | |
 | **05/25**          | **Holiday**              | | |
-| **05/27**          | **Programming in Tidyverse**              | | Assignment 2 - Tidyverse|
+| **05/27**          | **Programming in Tidyverse**              | https://rafalab.github.io/dsbook/tidyverse.html | Assignment 2 - Tidyverse|
 | Balise & Bouzoubaa | 5. Review and Expand from BST 625 - Understand and know how to use the Tidyverse (dplyr, ggplot, purrr, etc)  | https://r4ds.had.co.nz/ | |
 | **05/29**          | **Data Acquisition**               | | Assignment 3a - Acquisition |
 | Balise & Bouzoubaa | 6. Understand what an API is   | | |
