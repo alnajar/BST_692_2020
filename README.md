@@ -171,14 +171,14 @@ Configure your machine before May 18th.  See Assignment 0.
 | **05/25**          | **Holiday**              | | |
 | **05/27**          | **Programming in Tidyverse**              | | Assignment 2 - Tidyverse|
 | Balise & Bouzoubaa | 5. Review and Expand from BST 625 - Understand and know how to use the Tidyverse (dplyr, ggplot, purrr, etc)  | https://r4ds.had.co.nz/ | |
-| **05/29**          | **Data Acquisition**               | | Assignment 2 - API |
+| **05/29**          | **Data Acquisition**               | | Assignment 3a - Acquisition |
 | Balise & Bouzoubaa | 6. Understand what an API is   | | |
 |                    | 7. How to pull data from RedCap via API   | | |
 | **05/29**          | **SQL**              | | |
-| Balise             | 8. Understand know how to write SQL calls   | | |
+| Balise             | 8. Understand know how to write SQL calls   | | Assignment 3b - SQL |
 |                    | 9. Understand how SQL relates to the tidyverse | | |
 | **06/03**          | **Explore & Transform**              | | |
-| Balise & Bouzoubaa | 10.	Know how to do exploratory data analysis in R (with DataExploreR and Janitor)  | | |
+| Balise & Bouzoubaa | 10.	Know how to do exploratory data analysis in R (with DataExploreR and Janitor)  | | Assignment 4 - Explore |
 | **06/01**          | **Packages**  | | |
 | Balise             | 11.	Know how to create your own R package   | | |
 |                    | 12.	Understand what is a package and why bother | | |
