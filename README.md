@@ -169,17 +169,17 @@ Configure your machine before May 18th.  See Assignment 0.
 |                    | 3. Understand and know how to use version control with Git | http://swcarpentry.github.io/git-novice/  | |
 |                    | 4. Understand and know how to use GitHub |  https://happygitwithr.com/| | |
 | **05/25**          | **Holiday**              | | |
-| **05/27**          | **Programming in Tidyverse**              | https://rafalab.github.io/dsbook/tidyverse.html https://rafalab.github.io/dsbook/ggplot2.html | Assignment 2 - Tidyverse|
+| **05/27**          | **Programming in Tidyverse**              | https://rafalab.github.io/dsbook/tidyverse.html https://rafalab.github.io/dsbook/ggplot2.html | Assignment 2 - Tidyverse  (Dude before class 6/05) |
 | Balise & Bouzoubaa | 5. Review and Expand from BST 625 - Understand and know how to use the Tidyverse (dplyr, ggplot, purrr, etc)  | https://r4ds.had.co.nz/ | |
-| **05/29**          | **Data Acquisition**               | | Assignment 3a - Acquisition |
+| **05/29**          | **Data Acquisition**               | | Assignment 3 (Dude before class 6/05) |
 | Balise & Bouzoubaa | 6. Understand what an API is   | | |
 |                    | 7. How to pull data from RedCap via API   | | |
 | **05/29**          | **SQL**              | https://rafalab.github.io/dsbook/joining-tables.html | Assignment 3b - SQL |
 | Balise             | 8. Understand know how to write SQL calls   | | |
 |                    | 9. Understand how SQL relates to the tidyverse | | |
-| **06/01**          | **Explore & Transform**              | | Assignment 4 - Explore |
+| **06/01**          | **Explore & Transform**              | | Assignment 4 - Explore (Due before class 6/10) |
 | Balise & Bouzoubaa | 10.	Know how to do exploratory data analysis in R (with DataExploreR and Janitor)  | | |
-| **06/03**          | **Packages**  | | |
+| **06/03**          | **Packages**  | | Assignment 5 - Package (Due before class 6/10) |
 | Balise             | 11.	Know how to create your own R package   | | |
 |                    | 12.	Understand what is a package and why bother | | |
 |                    | 13.	Unstand the tools used to make a package | | |
