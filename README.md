@@ -174,7 +174,7 @@ Configure your machine before May 18th.  See Assignment 0.
 | **05/29**          | **Data Acquisition**               | | Assignment 3 (Dude before class 6/05) |
 | Balise & Bouzoubaa | 6. Understand what an API is   | | |
 |                    | 7. How to pull data from RedCap via API   | | |
-| **05/29**          | **SQL**              | https://rafalab.github.io/dsbook/joining-tables.html | Assignment 3b - SQL |
+| **05/29**          | **SQL**              | https://rafalab.github.io/dsbook/joining-tables.html | Assignment 3b - SQL Assignment 3 (Dude before class 6/05) |
 | Balise             | 8. Understand know how to write SQL calls   | | |
 |                    | 9. Understand how SQL relates to the tidyverse | | |
 | **06/01**          | **Explore & Transform**              | | Assignment 4 - Explore (Due before class 6/10) |
